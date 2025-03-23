@@ -1,0 +1,7 @@
+pypdf
+langchain_community
+tqdm
+logging
+argparse
+json
+os
