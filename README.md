@@ -25,7 +25,7 @@
 
 ```bash
 git clone https://github.com/fer000n/pdftodataset.git
-cd REPO_NAME
+cd pdftodataset
 ```
 
 سپس کتابخانه‌های مورد نیاز را نصب کنید:
